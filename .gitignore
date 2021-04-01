@@ -1,0 +1,6 @@
+node_modules/
+.vscode
+shippedEvents.txt
+.idea/
+yarn-error.log
+kibana
